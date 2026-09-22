@@ -1,27 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working Notion/Obsidian alternative.<br>👯 I’m looking to collaborate on like minded people in Sydney.<br>🤝 I’m looking for help with investment in to my startup<br>🌱 I’m currently learning SwiftUI , UIKIT<br>💬 Ask me about second brain apps.<br>⚡ Fun fact I fix things that aren't broken....
 
+<!-- Boris Ryavkin GitHub Profile README -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=notoriskin.visitor-badge)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/notoriskin_85009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borisryavkin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18907092) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@orisk1n) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+Борис+👋;Hi+there,+I'm+Boris+👋)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=borisryavkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=borisryavkin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=borisryavkin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=borisryavkin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=borisryavkin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  🇷🇺 → 🇦🇺 Multidisciplinary Engineer & Developer <br>
+  Building cool things with <strong>React</strong>, <strong>Swift</strong>, and <strong>Microcontrollers</strong> 🚀
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=borisryavkin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤖 About Me
+
+Welcome to my GitHub!  
+I’m a multidisciplinary engineer who ...\
+	•	⚙️ Designed and built embedded systems using Arduino, HC-05, and L298N for robotics and control.\
+	•	📱 Developed iOS apps in Swift and SwiftUI, as well as cross-platform solutions with Dart/Flutter.\
+	•	🌐 Like any other junior dev played around with full-stack web apps using JavaScript libraries such as React/Vue.\
+	•	🧩 Combine electronics, software, and design thinking to create complete, practical solutions.
+
+Open to: Junior iOS roles, embedded systems projects, and full-stack development opportunities.
+
+---
+
+### 📖 Education
+
+**Bachelor of Engineering (Hons) – Mechatronics**  
+Queensland University of Technology (2021 – 2024)  
+Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
+
+**Certificate III in Fabrication** – IEK, Irkutsk (2019 – 2021)  
+**Certificate II in Electrotechnology** – TAFE QLD (2018 – 2019)
+
+---
+
+### 🧠 Skills & Tech I Use
+
+#### 🛠️ Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,swift,py,latex,bash,mysql)](https://skillicons.dev)
+
+#### 📦 Frameworks & Tools
+`React` `SwiftUI` `Tailwind CSS` `Arduino` `Vite` `MATLAB`
+
+#### 🔧 Hardware & Electronics
+`HC-05 Bluetooth` `L298N Motor control` `segment displays` `Soldering`
+
+#### 🖥️ Platforms & Software
+`Linux (CLI + Vim)` `macOS` `Windows` `Photoshop` `Illustrator`
+
+---
+
+### 💡 Projects Preview
+
+- 🔋 **BLE-Controlled RC Tank** — Arduino + SwiftUI app, controlled via HC-05
+- 🧭 **Portfolio Website** — Vite + React, old-school vibe, self-hosted on VPS
+
+Check out the pinned repos or scroll through my projects to see more.
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notoriskin&show_icons=true&theme=tokyonight" alt="Boris GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriskin&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Let's Connect and Collaborate!
+
+- [LinkedIn](https://www.linkedin.com/in/boris-ryavkin)
+- [Portfolio Website](https://notoriskin.github.io/boris-blog/)
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+</p>
